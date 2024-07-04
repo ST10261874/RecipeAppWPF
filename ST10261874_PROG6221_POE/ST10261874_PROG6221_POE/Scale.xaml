@@ -1,0 +1,87 @@
+﻿<Window x:Class="ST10261874_PROG6221_POE.Scale"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ST10261874_PROG6221_POE"
+        mc:Ignorable="d"
+        Title="Scale Recipe" Height="600" Width="950"
+        ResizeMode="NoResize"
+        WindowStyle="None"
+        WindowStartupLocation="CenterScreen">
+    <!-- Define the background gradient -->
+    <Window.Background>
+        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="#9C27B0" Offset="0"/>
+            <!-- Start color of the gradient -->
+            <GradientStop Color="#673AB7" Offset="1"/>
+            <!-- End color of the gradient -->
+        </LinearGradientBrush>
+    </Window.Background>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <!-- Row for header -->
+            <RowDefinition Height="*"/>
+            <!-- Row for main content -->
+        </Grid.RowDefinitions>
+
+        <!-- Header -->
+        <TextBlock Text="Scale Recipe" FontSize="24" FontWeight="Bold" HorizontalAlignment="Left" Margin="71,25,0,15" Foreground="#FFFAFAFA"/>
+
+        <!-- Info Image -->
+        <Image Source="/Icons/info.jpg" MouseUp="Image_MouseUp" Width="30" Height="30" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10">
+            <!-- ToolTip for image -->
+            <Image.ToolTip>
+                <ToolTip>
+                    <TextBlock Text="Click here for instructions on how to use this window." TextWrapping="Wrap"/>
+                </ToolTip>
+            </Image.ToolTip>
+        </Image>
+
+        <!-- Recipe Selection and Scaling Factor -->
+        <StackPanel Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,20">
+            <!-- ComboBox for selecting recipe -->
+            <ComboBox x:Name="RecipeComboBox" Width="200"/>
+            <!-- ComboBox for selecting scaling factor -->
+            <ComboBox x:Name="ScalingFactorComboBox" Width="100" Margin="5" VerticalAlignment="Center">
+                <ComboBoxItem Content="0.5"/>
+                <ComboBoxItem Content="2"/>
+                <ComboBoxItem Content="3"/>
+            </ComboBox>
+            <!-- Button to scale recipe -->
+            <Button Content="Scale Recipe" Background="DeepPink" Width="150" Margin="5" Click="Button_Click"/>
+        </StackPanel>
+
+        <!-- Recipe Comparison Grid -->
+        <Grid Grid.Row="1" Margin="20" Visibility="Collapsed" x:Name="ComparisonGrid">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Original Recipe -->
+            <StackPanel Grid.Column="0" Margin="20">
+                <TextBlock Text="Original Recipe" FontSize="18" FontWeight="Bold" Margin="0,10"/>
+                <RichTextBox x:Name="OriginalRecipeRichTextBox" Width="400" Height="300" Margin="0,5"/>
+            </StackPanel>
+
+            <!-- Scaled Recipe -->
+            <StackPanel Grid.Column="1" Margin="20">
+                <TextBlock Text="Scaled Recipe" FontSize="18" FontWeight="Bold" Margin="0,10"/>
+                <RichTextBox x:Name="ScaledRecipeRichTextBox" Width="400" Height="300" Margin="0,5"/>
+            </StackPanel>
+        </Grid>
+
+        <!-- Buttons -->
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,116,0,20" Width="770">
+            <!-- Button to go back to recipe menu -->
+            <Button Content="Back to Recipe Menu" Background="LightGray" Width="150" Height="38" VerticalAlignment="Bottom" Click="BackToMenuButton_Click"/>
+            <!-- Button to reset recipe -->
+            <Button x:Name="ResetButton" Background="Orange" Content="Reset Recipe" FontWeight="Bold" FontSize="18" HorizontalAlignment="Center" Width="250" Height="50" VerticalAlignment="Center" Click="ResetButton_Click" Visibility="Collapsed"/>
+            <!-- OK button -->
+            <Button x:Name="OkButton" Background="GreenYellow" Content="OK" Width="150" VerticalAlignment="Bottom" Height="30" Margin="5" Click="OkButton_Click" Visibility="Collapsed"/>
+        </StackPanel>
+    </Grid>
+</Window>

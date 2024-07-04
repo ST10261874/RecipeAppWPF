@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\prog6221---programming-2a---poe-ST10261874\\ST10261874_PROG6221_POE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D76E310B-13D1-4EA6-92DC-0EA76293D9C8}|ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE.csproj|c:\\users\\gaming pc\\onedrive\\desktop\\prog6221---programming-2a---poe-st10261874\\st10261874_prog6221_poe\\st10261874_prog6221_poe\\recipe.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76E310B-13D1-4EA6-92DC-0EA76293D9C8}|ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE.csproj|solutionrelative:st10261874_prog6221_poe\\recipe.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76E310B-13D1-4EA6-92DC-0EA76293D9C8}|ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE.csproj|C:\\Users\\GAMING PC\\OneDrive\\Desktop\\prog6221---programming-2a---poe-ST10261874\\ST10261874_PROG6221_POE\\st10261874_prog6221_poe\\recipe.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D76E310B-13D1-4EA6-92DC-0EA76293D9C8}|ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE.csproj|solutionrelative:st10261874_prog6221_poe\\recipe.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76E310B-13D1-4EA6-92DC-0EA76293D9C8}|ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE.csproj|C:\\Users\\GAMING PC\\OneDrive\\Desktop\\prog6221---programming-2a---poe-ST10261874\\ST10261874_PROG6221_POE\\st10261874_prog6221_poe\\scale.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76E310B-13D1-4EA6-92DC-0EA76293D9C8}|ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE.csproj|solutionrelative:st10261874_prog6221_poe\\scale.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76E310B-13D1-4EA6-92DC-0EA76293D9C8}|ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE.csproj|C:\\Users\\GAMING PC\\OneDrive\\Desktop\\prog6221---programming-2a---poe-ST10261874\\ST10261874_PROG6221_POE\\st10261874_prog6221_poe\\scale.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D76E310B-13D1-4EA6-92DC-0EA76293D9C8}|ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE.csproj|solutionrelative:st10261874_prog6221_poe\\scale.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76E310B-13D1-4EA6-92DC-0EA76293D9C8}|ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE.csproj|C:\\Users\\GAMING PC\\OneDrive\\Desktop\\prog6221---programming-2a---poe-ST10261874\\ST10261874_PROG6221_POE\\st10261874_prog6221_poe\\clear.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D76E310B-13D1-4EA6-92DC-0EA76293D9C8}|ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE.csproj|solutionrelative:st10261874_prog6221_poe\\clear.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76E310B-13D1-4EA6-92DC-0EA76293D9C8}|ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE.csproj|C:\\Users\\GAMING PC\\OneDrive\\Desktop\\prog6221---programming-2a---poe-ST10261874\\ST10261874_PROG6221_POE\\st10261874_prog6221_poe\\display.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D76E310B-13D1-4EA6-92DC-0EA76293D9C8}|ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE.csproj|solutionrelative:st10261874_prog6221_poe\\display.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76E310B-13D1-4EA6-92DC-0EA76293D9C8}|ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE.csproj|C:\\Users\\GAMING PC\\OneDrive\\Desktop\\prog6221---programming-2a---poe-ST10261874\\ST10261874_PROG6221_POE\\st10261874_prog6221_poe\\choose.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D76E310B-13D1-4EA6-92DC-0EA76293D9C8}|ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE.csproj|solutionrelative:st10261874_prog6221_poe\\choose.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76E310B-13D1-4EA6-92DC-0EA76293D9C8}|ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE.csproj|C:\\Users\\GAMING PC\\OneDrive\\Desktop\\prog6221---programming-2a---poe-ST10261874\\ST10261874_PROG6221_POE\\st10261874_prog6221_poe\\enterdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D76E310B-13D1-4EA6-92DC-0EA76293D9C8}|ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE.csproj|solutionrelative:st10261874_prog6221_poe\\enterdetails.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76E310B-13D1-4EA6-92DC-0EA76293D9C8}|ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE.csproj|C:\\Users\\GAMING PC\\OneDrive\\Desktop\\prog6221---programming-2a---poe-ST10261874\\ST10261874_PROG6221_POE\\st10261874_prog6221_poe\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D76E310B-13D1-4EA6-92DC-0EA76293D9C8}|ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE.csproj|solutionrelative:st10261874_prog6221_poe\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Scale.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\prog6221---programming-2a---poe-ST10261874\\ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE\\Scale.xaml.cs",
+              "RelativeDocumentMoniker": "ST10261874_PROG6221_POE\\Scale.xaml.cs",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\prog6221---programming-2a---poe-ST10261874\\ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE\\Scale.xaml.cs",
+              "RelativeToolTip": "ST10261874_PROG6221_POE\\Scale.xaml.cs",
+              "ViewState": "AQIAAKsAAAAAAAAAAAASwLgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T15:15:45.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Recipe.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\prog6221---programming-2a---poe-ST10261874\\ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE\\Recipe.xaml.cs",
+              "RelativeDocumentMoniker": "ST10261874_PROG6221_POE\\Recipe.xaml.cs",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\prog6221---programming-2a---poe-ST10261874\\ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE\\Recipe.xaml.cs",
+              "RelativeToolTip": "ST10261874_PROG6221_POE\\Recipe.xaml.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAEwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T15:15:15.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Choose.xaml",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\prog6221---programming-2a---poe-ST10261874\\ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE\\Choose.xaml",
+              "RelativeDocumentMoniker": "ST10261874_PROG6221_POE\\Choose.xaml",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\prog6221---programming-2a---poe-ST10261874\\ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE\\Choose.xaml",
+              "RelativeToolTip": "ST10261874_PROG6221_POE\\Choose.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T07:33:14.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Scale.xaml",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\prog6221---programming-2a---poe-ST10261874\\ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE\\Scale.xaml",
+              "RelativeDocumentMoniker": "ST10261874_PROG6221_POE\\Scale.xaml",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\prog6221---programming-2a---poe-ST10261874\\ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE\\Scale.xaml",
+              "RelativeToolTip": "ST10261874_PROG6221_POE\\Scale.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T07:33:41.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Clear.xaml",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\prog6221---programming-2a---poe-ST10261874\\ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE\\Clear.xaml",
+              "RelativeDocumentMoniker": "ST10261874_PROG6221_POE\\Clear.xaml",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\prog6221---programming-2a---poe-ST10261874\\ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE\\Clear.xaml",
+              "RelativeToolTip": "ST10261874_PROG6221_POE\\Clear.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T07:33:22.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnterDetails.xaml",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\prog6221---programming-2a---poe-ST10261874\\ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE\\EnterDetails.xaml",
+              "RelativeDocumentMoniker": "ST10261874_PROG6221_POE\\EnterDetails.xaml",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\prog6221---programming-2a---poe-ST10261874\\ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE\\EnterDetails.xaml",
+              "RelativeToolTip": "ST10261874_PROG6221_POE\\EnterDetails.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-25T18:32:43.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Recipe.xaml",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\prog6221---programming-2a---poe-ST10261874\\ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE\\Recipe.xaml",
+              "RelativeDocumentMoniker": "ST10261874_PROG6221_POE\\Recipe.xaml",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\prog6221---programming-2a---poe-ST10261874\\ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE\\Recipe.xaml",
+              "RelativeToolTip": "ST10261874_PROG6221_POE\\Recipe.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T07:33:35.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\prog6221---programming-2a---poe-ST10261874\\ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ST10261874_PROG6221_POE\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\prog6221---programming-2a---poe-ST10261874\\ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE\\MainWindow.xaml",
+              "RelativeToolTip": "ST10261874_PROG6221_POE\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T07:33:33.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Display.xaml",
+              "DocumentMoniker": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\prog6221---programming-2a---poe-ST10261874\\ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE\\Display.xaml",
+              "RelativeDocumentMoniker": "ST10261874_PROG6221_POE\\Display.xaml",
+              "ToolTip": "C:\\Users\\GAMING PC\\OneDrive\\Desktop\\prog6221---programming-2a---poe-ST10261874\\ST10261874_PROG6221_POE\\ST10261874_PROG6221_POE\\Display.xaml",
+              "RelativeToolTip": "ST10261874_PROG6221_POE\\Display.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T07:33:25.772Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
